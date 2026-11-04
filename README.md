@@ -21,7 +21,7 @@ A relentless interview to sharpen a plan or design.
 ├── README.upstream.md
 ├── SKILL.md
 └── agents/
-└── openai.yaml
+    └── openai.yaml
 ```
 
 - `SKILL.md` 是技能入口（触发条件 / 工作流 / 约束），安装时必须位于技能根目录。
